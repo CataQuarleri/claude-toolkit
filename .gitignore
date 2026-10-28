@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+a11y-audit/raw/
+*.env
