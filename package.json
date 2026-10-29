@@ -1,0 +1,30 @@
+{
+  "name": "@cataquarleri/claude-toolkit",
+  "version": "0.1.0",
+  "description": "Claude Code skills and commands for accessibility audits, frontend work, and learning in public.",
+  "bin": {
+    "claude-toolkit": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "commands/",
+    "README.md"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude",
+    "skills",
+    "accessibility",
+    "a11y",
+    "wcag"
+  ],
+  "author": "Cata",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
